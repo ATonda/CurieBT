@@ -107,3 +107,7 @@ Select board **ESP32 Dev Module** (WROOM-32) and upload `CurieBT.ino`.
 ### 📄 License
 
 Free to use. Attribution required — **© ATonda**
+
+## Licence
+
+GPL-3.0 – viz [LICENSE](LICENSE).
